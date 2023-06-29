@@ -1,3 +1,3 @@
 # Portfolio-website
 
-live link: https://portfoliorsk.netlify.app/
+live link: https://portfolioreactrk.netlify.app/
